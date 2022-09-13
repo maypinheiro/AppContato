@@ -1,0 +1,10 @@
+C:\Users\017586631\source\repos\AppNotas\bin\Debug\AppNotas.exe.config
+C:\Users\017586631\source\repos\AppNotas\bin\Debug\AppNotas.exe
+C:\Users\017586631\source\repos\AppNotas\bin\Debug\AppNotas.pdb
+C:\Users\017586631\source\repos\AppNotas\obj\Debug\AppNotas.csproj.AssemblyReference.cache
+C:\Users\017586631\source\repos\AppNotas\obj\Debug\AppNotas.Form1.resources
+C:\Users\017586631\source\repos\AppNotas\obj\Debug\AppNotas.Properties.Resources.resources
+C:\Users\017586631\source\repos\AppNotas\obj\Debug\AppNotas.csproj.GenerateResource.cache
+C:\Users\017586631\source\repos\AppNotas\obj\Debug\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\017586631\source\repos\AppNotas\obj\Debug\AppNotas.exe
+C:\Users\017586631\source\repos\AppNotas\obj\Debug\AppNotas.pdb
